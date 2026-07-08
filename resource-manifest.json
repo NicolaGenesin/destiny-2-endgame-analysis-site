@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-07-08T10:00:11+00:00",
+  "project_title": "Destiny 2: Endgame Analysis",
+  "repo_name": "destiny-2-endgame-analysis-site",
+  "title_source": "live_google_title",
+  "scaffold_version": 2,
+  "tech_stack": {
+    "framework": "Next.js App Router",
+    "language": "TypeScript",
+    "styling": "Tailwind CSS"
+  },
+  "strategy": {
+    "resource_model": "one-resource-one-website",
+    "source_fidelity": "translate the source 1:1 into a more user-friendly website",
+    "research_role": "enrich with provenance, context, trust, freshness, and discoverability"
+  },
+  "source_document": {
+    "doc_key": "spreadsheets:1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
+    "doc_type": "spreadsheets",
+    "doc_id": "1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
+    "canonical_source_url": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
+    "best_score": 93,
+    "latest_score": 93,
+    "row_count": 6,
+    "visible_rows": 2,
+    "hidden_rows": 4,
+    "last_seen": "2025-11-18 02:54:08",
+    "raw_source_urls": [
+      "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY",
+      "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/",
+      "https://docs.google.com/spreadsheets/u/0/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY"
+    ],
+    "origin_urls": [
+      "https://www.reddit.com/search/.json?q=docs.google.com%20AND%20numbers&after=t3_1iobuo2&sort=top&t=month&limit=100"
+    ]
+  },
+  "discovery_context": {
+    "authors_seen": [
+      "https://www.reddit.com/r/DestinyTheGame/comments/1isqi1k/multiplayer_meta/",
+      "mitonj",
+      "nightbot-theaegisrelic",
+      "nightbot-tmckfly",
+      "theaegisrelic"
+    ],
+    "notes_seen": [
+      "Destiny 2: Endgame Analysis"
+    ],
+    "titles_seen": [
+      "Multiplayer Meta? : r/DestinyTheGame",
+      "Wishlist builder script for a DIM based on Aegis spreadsheet",
+      "command"
+    ],
+    "max_valid_score": 200
+  },
+  "website_backlog": [
+    "Extract source content into normalized JSON",
+    "Run deep web research and store provenance/evidence",
+    "Map source structure to Next.js page sections/components",
+    "Ship the first public-facing content page"
+  ]
+}
